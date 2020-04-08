@@ -1,0 +1,13 @@
+# This is a file holding the environment variables to configure your project.
+# feel free to change them according to your actual configuration. In order to
+# load the variables in your shell, please type `source env`. If you're using
+# PyCharm, you can use the "Env File" plugin to load this file automatically
+# into your running environment.
+
+set -a
+
+DEBUG=yes
+
+BERNARD_SETTINGS_FILE=/home/mayur/Documents/programming/bernard_tutorial/bernard_tutorial/src/bernard_tutorial/settings.py
+BERNARD_BASE_URL=http://localhost:8666
+WEBVIEW_SECRET_KEY=fojmVDkcnuRrshInmxuH]VfG2+k3zLx88_CrFQ6y36bifl[RAJ
